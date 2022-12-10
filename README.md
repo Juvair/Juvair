@@ -2,7 +2,7 @@
 ###### Geospatial Data Science, GIS and Remote Sensing Learner
 I'm undergrad final year student of Environmental Science Discipline of Khulna University, Bangladesh. Looking for graduate research assistantship.
 
-Skills: Python / R programming / HTML / CSS / Java 
+Skills: Python / R programming /GIS / Remote Sensing
 
 - 🔭 I’m currently working  as a researcher of Environmental Sustainability Research Initiative (ESRI) 
 - 💬 Ask me about GIS and Remote Sensing 
