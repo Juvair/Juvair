@@ -4,7 +4,6 @@ I have completed my undergradute from Environmental Science Discipline of Khulna
 
 Skills: Python / R programming /GIS / Remote Sensing
 
-- 🔭 I’m currently working  as a researcher of Environmental Sustainability Research Initiative (ESRI) 
 - 💬 Ask me about GIS and Remote Sensing 
 
 
