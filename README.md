@@ -1,6 +1,6 @@
 ### Hey! I'm Juvair Hossan 👋,
 ###### Geospatial Data Science, GIS and Remote Sensing Learner
-I'm undergrad final year student of Environmental Science Discipline of Khulna University, Bangladesh. Looking for graduate research assistantship.
+I have completed my undergradute from Environmental Science Discipline of Khulna University, Bangladesh. Currently working as a researcher in Environmental Sustainability Reserach Intiative (ESRI), Khulna, Bangladesh.I'm looking for higher studies opportuninty in GIS & Remote Sensing field.
 
 Skills: Python / R programming /GIS / Remote Sensing
 
